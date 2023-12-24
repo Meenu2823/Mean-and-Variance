@@ -1,4 +1,5 @@
-#  Mean and variance of a discrete  distribution
+# DATE:
+# EXP NO-1 : Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -48,11 +49,13 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
-
+Developed By : MEENU.S
+Ref no : 23003303
+![Screenshot 2023-12-24 183328](https://github.com/Meenu2823/Mean-and-Variance/assets/139416219/e82fbc94-b35a-4218-bad6-b68c35e45b9f)
 
 # Output :
 
+![image](https://github.com/Meenu2823/Mean-and-Variance/assets/139416219/4ae7b6d3-3a52-4a2b-ba92-7b812e60dfdc)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
